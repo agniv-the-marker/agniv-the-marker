@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agniv-the-marker
 - 👀 I’m interested in discrete mathematics and theoretical computer science!
-- 🌱 I’m currently learning competitive coding.
+- 🌱 I’m currently learning how practice differs from theory.
 - 📫 How to reach me: agnivsarkar@proofschool.org
 - 🤯 Giftless >>> Github...
 
